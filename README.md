@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QuickByteVoid
-- 👀 I’m interested in ... Coding (Maybe)
+- 👀 I’m interested in  Coding (Maybe) Mostly games.
 - 🌱 I’m currently learning on C++, CSS, LUA, C#
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me QuickByte#0001 (Discord Nitro will expired willing to change after)
